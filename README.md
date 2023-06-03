@@ -1,1 +1,1 @@
-# java_course_and_practices
+# Java Course & Practices
